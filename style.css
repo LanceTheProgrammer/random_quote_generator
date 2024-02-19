@@ -1,0 +1,17 @@
+*{
+    font-size: 1.5rem;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+
+.wrapper{
+    width: 500px;
+    margin: 0 auto;
+
+}
+
+body{
+    background: black;
+}
